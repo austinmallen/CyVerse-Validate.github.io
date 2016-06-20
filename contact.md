@@ -14,9 +14,9 @@ Principal Investigator
 Organization-wide address
 [Email](mailto:labstapleton@gmail.com)
 
-#### Stephen Talley
+#### Sierra Cockerill
 Site creator
-[Email](mailto:spt6655@alum.uncw.edu)
+[Email](mailto:kscockerill@gmail.com)
 
 #### James Gray
 Current admin
