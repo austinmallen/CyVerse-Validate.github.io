@@ -9,8 +9,19 @@ permalink: /useful-terms/
 Depending on your specialty coming into the lab, you may not need _all_ of the terms on this page. You may not need any! Either way feel free to skip to the 
 relevant section for whatever information you may be lacking: Biology Terms, Statistics Terms, Computer Science Terms, next page.
 
-## Biology Terms
+## Organizations
 
+* _Stampede_:
+
+* _Cyverse_:
+
+* _TACC_:
+
+* _Xsede_:
+
+* _Agave_:
+
+## Biology Terms
 * Genotype: The set of genes an organism possesses.
 * Phenotype: The physical characteristic of an organism. Though normally biologists refer to a collection of physical characteristics in defining phenotype, our typical studies limit the phenotype definition strictly to quantitative 
 traits such as height or weight. Most tools only use one of these quantitative characteristics for analysis for the sake of consistency and for statistical accuracy, though other options for phenotype are entirely possible 
@@ -54,11 +65,25 @@ some of the main features of a given program.
 * _Version:_ An iterative release of a computer program. Newer versions of computer software may include more features, be easier to use, or be less prone to errors than their predecessors. 
 * _API:_ Stands for _A_pplication _P_rogramming _I_nterface. A set of tools, resources, or routines which make developing applications on a given system easier. For example, iPlant's Agave API allows for easier development
 of scientific apps on the Stampede supercomputer.
-* _Permissions_: The authorization to read, write, or execute a program. Certain programs or files may not require access by everyone, so developers may set up permissions on their code such that only a certain group of people may use it freely.
+* _Permissions:_ The authorization to read, write, or execute a program. Certain programs or files may not require access by everyone, so developers may set up permissions on their code such that only a certain group of people may use it freely.
 While certain permission barriers may be bypassed (e.g. through the "sudo" command on Linux or "Run as administrator" on Windows), permissions are usually set up for a reason, so it's best to just contact the developer if you need access to something
 blocked off. 
 * _Github:_ A version-control website frequently used for collaboration on software design. Github allows for both public and private access to project repositories and keeps a history
 of different updates that users make to their programs. Anyone can make contributions to a public repository on Github. It also allows for you to set up webpages based on a project or organization and allows transfer of software permissions to other users or organizations.
+
+* _CLI:_
+
+* _Terminal:_
+
+* _Auth-tokens:_
+
+* _Node:_
+
+* _Allocation:_
+
+* _IRODS:_
+
+* _ICommands:_
 
 Now that you have a basic grasp some on the lingo, we can move on to the main iPlant information.
 
