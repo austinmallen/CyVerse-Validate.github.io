@@ -9,8 +9,19 @@ permalink: /useful-terms/
 Depending on your specialty coming into the lab, you may not need _all_ of the terms on this page. You may not need any! Either way feel free to skip to the 
 relevant section for whatever information you may be lacking: Biology Terms, Statistics Terms, Computer Science Terms, next page.
 
-## Biology Terms
+## Organizations (Definitions drawn from each organizations web presences)
 
+* _Stampede_: One of the most powerful supercomputers in the world, dedicated primarily for scientific computation.
+
+* _Cyverse_: National life science consortium (previously known as iPlant). This organiztion has many functions and purposes but primarily seems to allow for ease of collaboration.   
+
+* _TACC_: Texas Advanced Computer Center (TACC). "The center's mission is to enable discoveries that advance science and society through the application of advanced computing technologies."
+
+* _Xsede_: "Xsede is a single virtual system that scientists can use to interactively share computing resources, data and expertise." 
+
+* _Agave_: "Agave is an open source, platform-as-a-service solution for hybrid cloud computing. It provides a full suite of services covering everything from standards-based authentication and authorization to computational, data, and collaborative services."
+
+## Biology Terms
 * Genotype: The set of genes an organism possesses.
 * Phenotype: The physical characteristic of an organism. Though normally biologists refer to a collection of physical characteristics in defining phenotype, our typical studies limit the phenotype definition strictly to quantitative 
 traits such as height or weight. Most tools only use one of these quantitative characteristics for analysis for the sake of consistency and for statistical accuracy, though other options for phenotype are entirely possible 
@@ -52,13 +63,30 @@ a certain set of standards that the tester may want the software to adhere to, o
 * _Documentation:_ The necessary documents explaining how to use the software. Typically, documentation includes instructions for using each of the functions included and perhaps a tutorial for going through
 some of the main features of a given program. 
 * _Version:_ An iterative release of a computer program. Newer versions of computer software may include more features, be easier to use, or be less prone to errors than their predecessors. 
-* _API:_ Stands for _A_pplication _P_rogramming _I_nterface. A set of tools, resources, or routines which make developing applications on a given system easier. For example, iPlant's Agave API allows for easier development
-of scientific apps on the Stampede supercomputer.
-* _Permissions_: The authorization to read, write, or execute a program. Certain programs or files may not require access by everyone, so developers may set up permissions on their code such that only a certain group of people may use it freely.
+
+* _Permissions:_ The authorization to read, write, or execute a program. Certain programs or files may not require access by everyone, so developers may set up permissions on their code such that only a certain group of people may use it freely.
 While certain permission barriers may be bypassed (e.g. through the "sudo" command on Linux or "Run as administrator" on Windows), permissions are usually set up for a reason, so it's best to just contact the developer if you need access to something
 blocked off. 
 * _Github:_ A version-control website frequently used for collaboration on software design. Github allows for both public and private access to project repositories and keeps a history
 of different updates that users make to their programs. Anyone can make contributions to a public repository on Github. It also allows for you to set up webpages based on a project or organization and allows transfer of software permissions to other users or organizations.
+
+* _CLI:_ _c_ommand _l_ine _i_nterface (CLI). This is a way for a user to interact with a computer/application/etc. by way of the command line. (ex. old dos commands)
+
+*_GUI:_ _g_raphic _u_ser _i_nterface (GUI). This is a way for a user to interact with a computer/application/etc. by way of a graphic (ex. using microsoft word)
+
+* _API:_ _a_pplication _p_rogramming _i_nterface (API). A set of tools, resources, or routines which make developing applications on a given system easier. Following the logic from the two precedding definitions, API could be exaplined as the way in which interfacing happens when programming applications. For example, iPlant's Agave API allows for easier development of scientific apps on the Stampede supercomputer. 
+
+* _Terminal:_ A portal for interacting with and recieving data from a computer.
+
+* _Auth-tokens:_ Authentication tokens are used as a kind of digital key which allow other computers to determine and verify user's identities. 
+
+* _Node:_ (Within the context of the Stampede super computer) These are the speficic compute nodes which jobs are sent to. 
+
+* _Allocation:_ (Within the context of this workflow) This a set amount of space that is given to you to run jobs on the stampede supercomputer 
+
+* _iRODS:_ "The Integrated Rule-Oriented Data System (iRODS) is open source data management software for storing, searching, organizing, and sharing files and datasets that are large, important, and complex." Generally this is used so users can interact with the cyverse data store from their home computers.  
+
+* _iCommands:_ A collection of commands to be used within IRODS for submitting or retrieving data from the data store. 
 
 Now that you have a basic grasp some on the lingo, we can move on to the main iPlant information.
 
